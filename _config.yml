@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Céline Hudelot"
-  avatar           : "celine_0.jpeg"
+  avatar           : "images/celine_0.jpeg"
   bio              : "Professor in Computer Science"
   location         : "Paris Saclay"
   employer         : "CentraleSupélec"
