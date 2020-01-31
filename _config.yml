@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Celine Hudelot"
+  name             : "Céline Hudelot"
   avatar           : "celine_0.jpeg"
   bio              : "Professor in Computer Science"
-  location         : "CentraleSupélec"
-  employer         :
+  location         : "Paris Saclay"
+  employer         : "CentraleSupélec"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gFlAh6MAAAAJ&hl=fr"
   email            : 
